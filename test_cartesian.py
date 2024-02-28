@@ -142,6 +142,7 @@ def main():
                 # print("line_split",line_split)
                 # ins_num_jobs = int(line_split[0])
                 # ins_num_mas = int(line_split[1])
+                #avavav
                 ins_num_jobs = env_paras["num_jobs"]
                 ins_num_mas = env_paras["num_mas"]
                 print("ins_num_jobs=",ins_num_jobs)
